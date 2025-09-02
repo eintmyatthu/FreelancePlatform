@@ -1,0 +1,545 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NCC\\L5DC\\FreelancePlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|d:\\ncc\\l5dc\\freelanceplatform\\clientdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:clientdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\clientdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:clientdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\leavereviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:leavereviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\reviewbidsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:reviewbidsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\reviewbidsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:reviewbidsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\freelancerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:freelancerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\leavereviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:leavereviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\postprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:postprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\freelancerprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:freelancerprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\freelancerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:freelancerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\class\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:class\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\class\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:class\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\class\\freelancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:class\\freelancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\class\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:class\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\postprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:postprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\clientprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:clientprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\clientprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:clientprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|d:\\ncc\\l5dc\\freelanceplatform\\clientprofileform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:clientprofileform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\class\\iprojectobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:class\\iprojectobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\freelancerprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:freelancerprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|d:\\ncc\\l5dc\\freelanceplatform\\class\\projectnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:class\\projectnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\class\\dataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:class\\dataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\clientdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:clientdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\bidform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:bidform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\bidform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:bidform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\postprojectform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:postprojectform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|D:\\NCC\\L5DC\\FreelancePlatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC35A33-8C54-4722-8B2E-4B52938D079A}|FreelancePlatform.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FreelancerDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\FreelancerDashboard.cs",
+              "RelativeDocumentMoniker": "FreelancerDashboard.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\FreelancerDashboard.cs [Design]",
+              "RelativeToolTip": "FreelancerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:52:42.469Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\ClientDashboard.cs",
+              "RelativeDocumentMoniker": "ClientDashboard.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\ClientDashboard.cs [Design]",
+              "RelativeToolTip": "ClientDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:07:31.854Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientDashboard.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\ClientDashboard.cs",
+              "RelativeDocumentMoniker": "ClientDashboard.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\ClientDashboard.cs",
+              "RelativeToolTip": "ClientDashboard.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAYwHwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:11:32.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewBidsForm.cs [Design]",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\ReviewBidsForm.cs",
+              "RelativeDocumentMoniker": "ReviewBidsForm.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\ReviewBidsForm.cs [Design]",
+              "RelativeToolTip": "ReviewBidsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:36:17.815Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewBidsForm.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\ReviewBidsForm.cs",
+              "RelativeDocumentMoniker": "ReviewBidsForm.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\ReviewBidsForm.cs",
+              "RelativeToolTip": "ReviewBidsForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:44:57.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaveReviewForm.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\LeaveReviewForm.cs",
+              "RelativeDocumentMoniker": "LeaveReviewForm.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\LeaveReviewForm.cs",
+              "RelativeToolTip": "LeaveReviewForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:06:45.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeaveReviewForm.cs [Design]",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\LeaveReviewForm.cs",
+              "RelativeDocumentMoniker": "LeaveReviewForm.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\LeaveReviewForm.cs [Design]",
+              "RelativeToolTip": "LeaveReviewForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:00:56.753Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostProjectForm.cs [Design]",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\PostProjectForm.cs",
+              "RelativeDocumentMoniker": "PostProjectForm.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\PostProjectForm.cs [Design]",
+              "RelativeToolTip": "PostProjectForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:24:07.963Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FreelancerProfileForm.cs [Design]",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\FreelancerProfileForm.cs",
+              "RelativeDocumentMoniker": "FreelancerProfileForm.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\FreelancerProfileForm.cs [Design]",
+              "RelativeToolTip": "FreelancerProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:04:00.179Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FreelancerDashboard.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\FreelancerDashboard.cs",
+              "RelativeDocumentMoniker": "FreelancerDashboard.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\FreelancerDashboard.cs",
+              "RelativeToolTip": "FreelancerDashboard.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAwLAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:11:12.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\Class\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Class\\UserRepository.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\Class\\UserRepository.cs",
+              "RelativeToolTip": "Class\\UserRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAjwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:49:07.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserFactory.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\Class\\UserFactory.cs",
+              "RelativeDocumentMoniker": "Class\\UserFactory.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\Class\\UserFactory.cs",
+              "RelativeToolTip": "Class\\UserFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:37:50.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Freelancer.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\Class\\Freelancer.cs",
+              "RelativeDocumentMoniker": "Class\\Freelancer.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\Class\\Freelancer.cs",
+              "RelativeToolTip": "Class\\Freelancer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwEMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:33:37.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\Class\\Client.cs",
+              "RelativeDocumentMoniker": "Class\\Client.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\Class\\Client.cs",
+              "RelativeToolTip": "Class\\Client.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:33:46.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\Class\\User.cs",
+              "RelativeDocumentMoniker": "Class\\User.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\Class\\User.cs",
+              "RelativeToolTip": "Class\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T07:07:32.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PostProjectForm.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\PostProjectForm.cs",
+              "RelativeDocumentMoniker": "PostProjectForm.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\PostProjectForm.cs",
+              "RelativeToolTip": "PostProjectForm.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAswFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:30:11.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientProfileForm.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\ClientProfileForm.cs",
+              "RelativeDocumentMoniker": "ClientProfileForm.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\ClientProfileForm.cs",
+              "RelativeToolTip": "ClientProfileForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:17:33.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientProfileForm.cs [Design]",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\ClientProfileForm.cs",
+              "RelativeDocumentMoniker": "ClientProfileForm.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\ClientProfileForm.cs [Design]",
+              "RelativeToolTip": "ClientProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:14:03.095Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientProfileForm.Designer.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\ClientProfileForm.Designer.cs",
+              "RelativeDocumentMoniker": "ClientProfileForm.Designer.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\ClientProfileForm.Designer.cs",
+              "RelativeToolTip": "ClientProfileForm.Designer.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:59:05.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProjectObserver.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\Class\\IProjectObserver.cs",
+              "RelativeDocumentMoniker": "Class\\IProjectObserver.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\Class\\IProjectObserver.cs",
+              "RelativeToolTip": "Class\\IProjectObserver.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:04:07.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FreelancerProfileForm.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\FreelancerProfileForm.cs",
+              "RelativeDocumentMoniker": "FreelancerProfileForm.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\FreelancerProfileForm.cs",
+              "RelativeToolTip": "FreelancerProfileForm.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAmwIEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:19:34.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProjectNotifier.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\Class\\ProjectNotifier.cs",
+              "RelativeDocumentMoniker": "Class\\ProjectNotifier.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\Class\\ProjectNotifier.cs",
+              "RelativeToolTip": "Class\\ProjectNotifier.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T06:42:29.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAMwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T06:56:16.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClientDashboard.Designer.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\ClientDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "ClientDashboard.Designer.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\ClientDashboard.Designer.cs",
+              "RelativeToolTip": "ClientDashboard.Designer.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAewKYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:33:24.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataConnection.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\Class\\DataConnection.cs",
+              "RelativeDocumentMoniker": "Class\\DataConnection.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\Class\\DataConnection.cs",
+              "RelativeToolTip": "Class\\DataConnection.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAMwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T08:27:38.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T06:44:59.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BidForm.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\BidForm.cs",
+              "RelativeDocumentMoniker": "BidForm.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\BidForm.cs",
+              "RelativeToolTip": "BidForm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:14:59.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BidForm.cs [Design]",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\BidForm.cs",
+              "RelativeDocumentMoniker": "BidForm.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\BidForm.cs [Design]",
+              "RelativeToolTip": "BidForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:10:08.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\Register.cs",
+              "RelativeToolTip": "Register.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwFQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:00:23.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PostProjectForm.Designer.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\PostProjectForm.Designer.cs",
+              "RelativeDocumentMoniker": "PostProjectForm.Designer.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\PostProjectForm.Designer.cs",
+              "RelativeToolTip": "PostProjectForm.Designer.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAADwv5wAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:37:53.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\Register.cs [Design]",
+              "RelativeToolTip": "Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:48:24.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NCC\\L5DC\\FreelancePlatform\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\NCC\\L5DC\\FreelancePlatform\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:57:09.2Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+D:\NCC\FreelancePlatform\bin\Debug\FreelancePlatform.exe.config
+D:\NCC\FreelancePlatform\bin\Debug\FreelancePlatform.exe
+D:\NCC\FreelancePlatform\bin\Debug\FreelancePlatform.pdb
+D:\NCC\FreelancePlatform\obj\Debug\FreelancePlatform.csproj.AssemblyReference.cache
+D:\NCC\FreelancePlatform\obj\Debug\FreelancePlatform.frmRegister.resources
+D:\NCC\FreelancePlatform\obj\Debug\FreelancePlatform.Properties.Resources.resources
+D:\NCC\FreelancePlatform\obj\Debug\FreelancePlatform.csproj.GenerateResource.cache
+D:\NCC\FreelancePlatform\obj\Debug\FreelancePlatform.csproj.CoreCompileInputs.cache
+D:\NCC\FreelancePlatform\obj\Debug\FreelancePlatform.exe
+D:\NCC\FreelancePlatform\obj\Debug\FreelancePlatform.pdb
+D:\NCC\FreelancePlatform\bin\Debug\BouncyCastle.Cryptography.dll
+D:\NCC\FreelancePlatform\bin\Debug\Google.Protobuf.dll
+D:\NCC\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.dll
+D:\NCC\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\NCC\FreelancePlatform\bin\Debug\K4os.Hash.xxHash.dll
+D:\NCC\FreelancePlatform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NCC\FreelancePlatform\bin\Debug\MySql.Data.dll
+D:\NCC\FreelancePlatform\bin\Debug\System.Buffers.dll
+D:\NCC\FreelancePlatform\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\NCC\FreelancePlatform\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\NCC\FreelancePlatform\bin\Debug\System.IO.Pipelines.dll
+D:\NCC\FreelancePlatform\bin\Debug\System.Memory.dll
+D:\NCC\FreelancePlatform\bin\Debug\System.Numerics.Vectors.dll
+D:\NCC\FreelancePlatform\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\NCC\FreelancePlatform\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\NCC\FreelancePlatform\bin\Debug\ZstdSharp.dll
+D:\NCC\FreelancePlatform\bin\Debug\BouncyCastle.Cryptography.xml
+D:\NCC\FreelancePlatform\bin\Debug\Google.Protobuf.pdb
+D:\NCC\FreelancePlatform\bin\Debug\Google.Protobuf.xml
+D:\NCC\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.xml
+D:\NCC\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\NCC\FreelancePlatform\bin\Debug\K4os.Hash.xxHash.xml
+D:\NCC\FreelancePlatform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\NCC\FreelancePlatform\bin\Debug\MySql.Data.xml
+D:\NCC\FreelancePlatform\bin\Debug\System.Buffers.xml
+D:\NCC\FreelancePlatform\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\NCC\FreelancePlatform\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\NCC\FreelancePlatform\bin\Debug\System.IO.Pipelines.xml
+D:\NCC\FreelancePlatform\bin\Debug\System.Memory.xml
+D:\NCC\FreelancePlatform\bin\Debug\System.Numerics.Vectors.xml
+D:\NCC\FreelancePlatform\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\NCC\FreelancePlatform\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\NCC\FreelancePlatform\obj\Debug\Freelanc.77A02412.Up2Date
+D:\NCC\FreelancePlatform\obj\Debug\FreelancePlatform.frmLogin.resources
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\FreelancePlatform.exe.config
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\FreelancePlatform.exe
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\FreelancePlatform.pdb
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\BouncyCastle.Cryptography.dll
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\Google.Protobuf.dll
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.dll
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\K4os.Hash.xxHash.dll
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\MySql.Data.dll
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\System.Buffers.dll
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\System.IO.Pipelines.dll
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\System.Memory.dll
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\System.Numerics.Vectors.dll
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\ZstdSharp.dll
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\BouncyCastle.Cryptography.xml
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\Google.Protobuf.pdb
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\Google.Protobuf.xml
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.xml
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\K4os.Hash.xxHash.xml
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\MySql.Data.xml
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\System.Buffers.xml
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\System.IO.Pipelines.xml
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\System.Memory.xml
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\System.Numerics.Vectors.xml
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\NCC\L5DC\FreelancePlatform\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\NCC\L5DC\FreelancePlatform\obj\Debug\FreelancePlatform.csproj.AssemblyReference.cache
+D:\NCC\L5DC\FreelancePlatform\obj\Debug\FreelancePlatform.BidForm.resources
+D:\NCC\L5DC\FreelancePlatform\obj\Debug\FreelancePlatform.frmClientDashboard.resources
+D:\NCC\L5DC\FreelancePlatform\obj\Debug\FreelancePlatform.frmFreelancerDashboard.resources
+D:\NCC\L5DC\FreelancePlatform\obj\Debug\FreelancePlatform.frmLogin.resources
+D:\NCC\L5DC\FreelancePlatform\obj\Debug\FreelancePlatform.frmPostProjectForm.resources
+D:\NCC\L5DC\FreelancePlatform\obj\Debug\FreelancePlatform.frmRegister.resources
+D:\NCC\L5DC\FreelancePlatform\obj\Debug\FreelancePlatform.Properties.Resources.resources
+D:\NCC\L5DC\FreelancePlatform\obj\Debug\FreelancePlatform.csproj.GenerateResource.cache
+D:\NCC\L5DC\FreelancePlatform\obj\Debug\FreelancePlatform.csproj.CoreCompileInputs.cache
+D:\NCC\L5DC\FreelancePlatform\obj\Debug\Freelanc.77A02412.Up2Date
+D:\NCC\L5DC\FreelancePlatform\obj\Debug\FreelancePlatform.exe
+D:\NCC\L5DC\FreelancePlatform\obj\Debug\FreelancePlatform.pdb
+D:\NCC\L5DC\FreelancePlatform\obj\Debug\FreelancePlatform.ReviewBidsForm.resources
+D:\NCC\L5DC\FreelancePlatform\obj\Debug\FreelancePlatform.LeaveReviewForm.resources
+D:\NCC\L5DC\FreelancePlatform\obj\Debug\FreelancePlatform.ClientProfileForm.resources
+D:\NCC\L5DC\FreelancePlatform\obj\Debug\FreelancePlatform.FreelancerProfileForm.resources
+E:\Sample Project\FreelancePlatform\bin\Debug\FreelancePlatform.exe.config
+E:\Sample Project\FreelancePlatform\bin\Debug\FreelancePlatform.exe
+E:\Sample Project\FreelancePlatform\bin\Debug\FreelancePlatform.pdb
+E:\Sample Project\FreelancePlatform\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Sample Project\FreelancePlatform\bin\Debug\Google.Protobuf.dll
+E:\Sample Project\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.dll
+E:\Sample Project\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Sample Project\FreelancePlatform\bin\Debug\K4os.Hash.xxHash.dll
+E:\Sample Project\FreelancePlatform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Sample Project\FreelancePlatform\bin\Debug\MySql.Data.dll
+E:\Sample Project\FreelancePlatform\bin\Debug\System.Buffers.dll
+E:\Sample Project\FreelancePlatform\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Sample Project\FreelancePlatform\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Sample Project\FreelancePlatform\bin\Debug\System.IO.Pipelines.dll
+E:\Sample Project\FreelancePlatform\bin\Debug\System.Memory.dll
+E:\Sample Project\FreelancePlatform\bin\Debug\System.Numerics.Vectors.dll
+E:\Sample Project\FreelancePlatform\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Sample Project\FreelancePlatform\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Sample Project\FreelancePlatform\bin\Debug\ZstdSharp.dll
+E:\Sample Project\FreelancePlatform\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Sample Project\FreelancePlatform\bin\Debug\Google.Protobuf.pdb
+E:\Sample Project\FreelancePlatform\bin\Debug\Google.Protobuf.xml
+E:\Sample Project\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.xml
+E:\Sample Project\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Sample Project\FreelancePlatform\bin\Debug\K4os.Hash.xxHash.xml
+E:\Sample Project\FreelancePlatform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Sample Project\FreelancePlatform\bin\Debug\MySql.Data.xml
+E:\Sample Project\FreelancePlatform\bin\Debug\System.Buffers.xml
+E:\Sample Project\FreelancePlatform\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Sample Project\FreelancePlatform\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Sample Project\FreelancePlatform\bin\Debug\System.IO.Pipelines.xml
+E:\Sample Project\FreelancePlatform\bin\Debug\System.Memory.xml
+E:\Sample Project\FreelancePlatform\bin\Debug\System.Numerics.Vectors.xml
+E:\Sample Project\FreelancePlatform\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Sample Project\FreelancePlatform\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.csproj.AssemblyReference.cache
+E:\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.BidForm.resources
+E:\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.frmClientDashboard.resources
+E:\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.ClientProfileForm.resources
+E:\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.frmFreelancerDashboard.resources
+E:\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.FreelancerProfileForm.resources
+E:\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.LeaveReviewForm.resources
+E:\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.frmLogin.resources
+E:\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.frmPostProjectForm.resources
+E:\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.frmRegister.resources
+E:\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.Properties.Resources.resources
+E:\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.ReviewBidsForm.resources
+E:\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.csproj.GenerateResource.cache
+E:\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.csproj.CoreCompileInputs.cache
+E:\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.csproj.CopyComplete
+E:\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.exe
+E:\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.pdb
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\FreelancePlatform.exe.config
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\FreelancePlatform.exe
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\FreelancePlatform.pdb
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\BouncyCastle.Cryptography.dll
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\Google.Protobuf.dll
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.dll
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\K4os.Hash.xxHash.dll
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\MySql.Data.dll
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\System.Buffers.dll
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\System.IO.Pipelines.dll
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\System.Memory.dll
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\System.Numerics.Vectors.dll
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\ZstdSharp.dll
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\BouncyCastle.Cryptography.xml
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\Google.Protobuf.pdb
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\Google.Protobuf.xml
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.xml
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\K4os.Hash.xxHash.xml
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\MySql.Data.xml
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\System.Buffers.xml
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\System.IO.Pipelines.xml
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\System.Memory.xml
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\System.Numerics.Vectors.xml
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.csproj.AssemblyReference.cache
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.BidForm.resources
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.frmClientDashboard.resources
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.ClientProfileForm.resources
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.frmFreelancerDashboard.resources
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.FreelancerProfileForm.resources
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.LeaveReviewForm.resources
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.frmLogin.resources
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.frmPostProjectForm.resources
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.frmRegister.resources
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.Properties.Resources.resources
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.ReviewBidsForm.resources
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.csproj.GenerateResource.cache
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.csproj.CoreCompileInputs.cache
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.csproj.CopyComplete
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.exe
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.pdb
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\bin\Debug\Guna.UI2.dll
+D:\KBTC\Level 5\ADI\Assignment\Sample Project\FreelancePlatform\obj\Debug\FreelancePlatform.frmFreelancerPlatform.resources
+E:\GE Presentation\FreelancePlatform\obj\Debug\FreelancePlatform.csproj.AssemblyReference.cache
+E:\GE Presentation\FreelancePlatform\obj\Debug\FreelancePlatform.BidForm.resources
+E:\GE Presentation\FreelancePlatform\obj\Debug\FreelancePlatform.frmClientDashboard.resources
+E:\GE Presentation\FreelancePlatform\obj\Debug\FreelancePlatform.ClientProfileForm.resources
+E:\GE Presentation\FreelancePlatform\obj\Debug\FreelancePlatform.frmFreelancerDashboard.resources
+E:\GE Presentation\FreelancePlatform\obj\Debug\FreelancePlatform.FreelancerProfileForm.resources
+E:\GE Presentation\FreelancePlatform\obj\Debug\FreelancePlatform.LeaveReviewForm.resources
+E:\GE Presentation\FreelancePlatform\obj\Debug\FreelancePlatform.frmLogin.resources
+E:\GE Presentation\FreelancePlatform\obj\Debug\FreelancePlatform.frmPostProjectForm.resources
+E:\GE Presentation\FreelancePlatform\obj\Debug\FreelancePlatform.frmRegister.resources
+E:\GE Presentation\FreelancePlatform\obj\Debug\FreelancePlatform.Properties.Resources.resources
+E:\GE Presentation\FreelancePlatform\obj\Debug\FreelancePlatform.ReviewBidsForm.resources
+E:\GE Presentation\FreelancePlatform\obj\Debug\FreelancePlatform.frmFreelancerPlatform.resources
+E:\GE Presentation\FreelancePlatform\obj\Debug\FreelancePlatform.csproj.GenerateResource.cache
+E:\GE Presentation\FreelancePlatform\obj\Debug\FreelancePlatform.csproj.CoreCompileInputs.cache
+E:\GE Presentation\FreelancePlatform\obj\Debug\FreelancePlatform.exe
+E:\GE Presentation\FreelancePlatform\obj\Debug\FreelancePlatform.pdb
+E:\GE Presentation\FreelancePlatform\bin\Debug\FreelancePlatform.exe.config
+E:\GE Presentation\FreelancePlatform\bin\Debug\FreelancePlatform.exe
+E:\GE Presentation\FreelancePlatform\bin\Debug\FreelancePlatform.pdb
+E:\GE Presentation\FreelancePlatform\bin\Debug\BouncyCastle.Cryptography.dll
+E:\GE Presentation\FreelancePlatform\bin\Debug\Google.Protobuf.dll
+E:\GE Presentation\FreelancePlatform\bin\Debug\Guna.UI2.dll
+E:\GE Presentation\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.dll
+E:\GE Presentation\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\GE Presentation\FreelancePlatform\bin\Debug\K4os.Hash.xxHash.dll
+E:\GE Presentation\FreelancePlatform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\GE Presentation\FreelancePlatform\bin\Debug\MySql.Data.dll
+E:\GE Presentation\FreelancePlatform\bin\Debug\System.Buffers.dll
+E:\GE Presentation\FreelancePlatform\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\GE Presentation\FreelancePlatform\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\GE Presentation\FreelancePlatform\bin\Debug\System.IO.Pipelines.dll
+E:\GE Presentation\FreelancePlatform\bin\Debug\System.Memory.dll
+E:\GE Presentation\FreelancePlatform\bin\Debug\System.Numerics.Vectors.dll
+E:\GE Presentation\FreelancePlatform\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\GE Presentation\FreelancePlatform\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\GE Presentation\FreelancePlatform\bin\Debug\ZstdSharp.dll
+E:\GE Presentation\FreelancePlatform\bin\Debug\BouncyCastle.Cryptography.xml
+E:\GE Presentation\FreelancePlatform\bin\Debug\Google.Protobuf.pdb
+E:\GE Presentation\FreelancePlatform\bin\Debug\Google.Protobuf.xml
+E:\GE Presentation\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.xml
+E:\GE Presentation\FreelancePlatform\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\GE Presentation\FreelancePlatform\bin\Debug\K4os.Hash.xxHash.xml
+E:\GE Presentation\FreelancePlatform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\GE Presentation\FreelancePlatform\bin\Debug\MySql.Data.xml
+E:\GE Presentation\FreelancePlatform\bin\Debug\System.Buffers.xml
+E:\GE Presentation\FreelancePlatform\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\GE Presentation\FreelancePlatform\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\GE Presentation\FreelancePlatform\bin\Debug\System.IO.Pipelines.xml
+E:\GE Presentation\FreelancePlatform\bin\Debug\System.Memory.xml
+E:\GE Presentation\FreelancePlatform\bin\Debug\System.Numerics.Vectors.xml
+E:\GE Presentation\FreelancePlatform\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\GE Presentation\FreelancePlatform\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\GE Presentation\FreelancePlatform\obj\Debug\FreelancePlatform.csproj.CopyComplete
