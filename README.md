@@ -4,7 +4,7 @@ To run and test my FreelancerPlatform, the following steps are necessary:
 
 2.After download mysql server and workbench installs mysqldump file to your mysql server local database
 
- - In my assignment "201812_Eaint_Myat_Thu_ADI" folder, I have included "freelancer_platform" SQL file.
+ - In this "FreelancePlatform" folder, I have included "freelancer_platform" SQL file.
 
  - Please import this "freelancer_platform" SQL file into the MySQL Workbench.
 
@@ -106,7 +106,3 @@ Freelancers
 
 Username      -	Kevin
 Password      -	Kevin@123
-
-	
-
-___________________________________________________________________________________
